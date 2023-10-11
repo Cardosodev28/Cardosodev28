@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cardosodev28
-- 👀 estudante EREM lagoa encantada..
+- 📓 estudante EREM lagoa encantada..
 - 🌱 iniciante na area da progamação ...
-- 💞️ participante do projeto LOVELACE feat Cesar school ...
+- 🧡participante do projeto LOVELACE feat Cesar school ...
 
 
 <!---
